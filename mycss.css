@@ -1,1 +1,19 @@
+img {
+  width: 200px;
+  float: right
+}
 
+h1 { 
+  color:#56b0ae;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center;
+  letter-spacing: 4px;
+  text-shadow: 4px 2px #d8d4e2; 
+}
+
+p{
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
